@@ -1,0 +1,20 @@
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Game_SkiDeKeersmaecker.exe.config
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Game_SkiDeKeersmaecker.exe
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Game_SkiDeKeersmaecker.pdb
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\SdlDotNet.dll
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Tao.Sdl.dll
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\SdlDotNet.xml
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Tao.Sdl.xml
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\obj\Debug\Game_SkiDeKeersmaecker.csprojResolveAssemblyReference.cache
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\obj\Debug\Game_SkiDeKeersmaecker.exe
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Theorie\Les 4\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\obj\Debug\Game_SkiDeKeersmaecker.pdb
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Game_SkiDeKeersmaecker.exe.config
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\obj\Debug\Game_SkiDeKeersmaecker.exe
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\obj\Debug\Game_SkiDeKeersmaecker.pdb
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Game_SkiDeKeersmaecker.exe
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Game_SkiDeKeersmaecker.pdb
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\SdlDotNet.dll
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Tao.Sdl.dll
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\SdlDotNet.xml
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\bin\Debug\Tao.Sdl.xml
+C:\Users\skide\Documents\School AP - ICT\2EA2\Game Development\Game\Game_SkiDeKeersmaecker\Game_SkiDeKeersmaecker\obj\Debug\Game_SkiDeKeersmaecker.csprojResolveAssemblyReference.cache

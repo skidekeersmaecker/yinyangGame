@@ -1,0 +1,6 @@
+Nick Cuypers => animatie counter
+Ruven Salamon => hero via setter in enemy meegeven (circular reference)
+https://stackoverflow.com/questions/983030/type-checking-typeof-gettype-or-is => klasse detecteren
+https://stackoverflow.com/questions/604831/collection-was-modified-enumeration-operation-may-not-execute => probleem opgelost met foreach in list (.toList())
+https://stackoverflow.com/questions/29738201/how-to-make-a-object-delete-itself-from-a-list => object zichzelf laten verwijderen van list
+https://stackoverflow.com/questions/8791557/efficiently-deleting-item-from-within-foreach => object verwijderen terwijl er over itereren
